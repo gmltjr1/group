@@ -1,1 +1,15 @@
+body{
+  font-size: 30px;
+}
 
+.delete  {
+  width : 60px;
+  height : 30px;
+  padding-top: 10px;
+}
+
+#acp {
+  margin-top : 20px;
+  height : 30px;
+  width : 30px;
+}
